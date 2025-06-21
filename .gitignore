@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS DS_Store
+.DS_Store
+
+# Log files
+*.log
